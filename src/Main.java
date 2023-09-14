@@ -1,5 +1,5 @@
 
-public class Main(String[] args){
+public class Main{
 
 	public static void main(String[] args) {
 		TreeDisplay d = new TreeDisplay();
